@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+
+>
+    <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/edt1"
+            android:textSize="28sp"
+            android:maxLength="1"
+            android:maxLines="1"
+            android:inputType="number"
+            android:cursorVisible="false"
+            android:background="@drawable/bg_border_edit_text_"
+            android:layout_width="35dp"
+            android:layout_margin="4dp"
+            android:textAlignment="center"
+            android:padding="4dp"
+            android:layout_height="wrap_content"/>
+
+    <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/edt2"
+            android:maxLength="1"
+            android:maxLines="1"
+            android:textSize="28sp"
+            android:inputType="number"
+            android:background="@drawable/bg_border_edit_text_"
+            android:layout_margin="4dp"
+            android:cursorVisible="false"
+            android:padding="4dp"
+            android:textAlignment="center"
+            android:layout_width="35dp"
+            android:layout_height="wrap_content"/>
+
+    <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/edt3"
+            android:textSize="28sp"
+            android:layout_margin="4dp"
+            android:maxLength="1"
+            android:maxLines="1"
+            android:padding="4dp"
+            android:cursorVisible="false"
+            android:inputType="number"
+            android:textAlignment="center"
+            android:layout_width="35dp"
+            android:background="@drawable/bg_border_edit_text_"
+            android:layout_height="wrap_content"/>
+    
+    <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/edt4"
+            android:textSize="28sp"
+            android:maxLength="1"
+            android:cursorVisible="false"
+            android:maxLines="1"
+            android:padding="4dp"
+            android:inputType="number"
+            android:layout_width="35dp"
+            android:textAlignment="center"
+            android:background="@drawable/bg_border_edit_text_"
+            android:layout_margin="4dp"
+            android:layout_height="wrap_content"/>
+    <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/edt5"
+            android:textSize="28sp"
+            android:inputType="number"
+            android:maxLength="1"
+            android:cursorVisible="false"
+            android:maxLines="1"
+            android:padding="4dp"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:layout_margin="4dp"
+            android:background="@drawable/bg_border_edit_text_"
+            android:layout_width="35dp"
+            android:layout_height="wrap_content"/>
+    
+    <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/edt6"
+            android:textSize="28sp"
+            android:maxLength="1"
+            android:cursorVisible="false"
+           android:textAlignment="center"
+            android:inputType="number"
+            android:maxLines="1"
+            android:padding="4dp"
+            android:background="@drawable/bg_border_edit_text_"
+            android:layout_margin="4dp"
+            android:layout_width="35dp"
+            android:layout_height="wrap_content"/>
+
+</merge>
